@@ -1,0 +1,5 @@
+vpc_cidr_blocks =  "10.0.0.0/16"
+subnet_cidr_blocks = "10.0.0.0/24"
+evn_prefix = "Dev"
+instance_type = "t2.micro"
+my_ip = "61.2.247.30/32"
