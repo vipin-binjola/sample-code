@@ -1,6 +1,7 @@
 provider "aws" {
     region = "ap-south-1"
 }
+/*hello*/
 
 variable vpc_cidr_blocks {}
 variable subnet_cidr_blocks {}
